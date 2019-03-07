@@ -2,7 +2,7 @@
 Simple tablet program in C Language using Graphics (graphics.h).
 
 This was my project in Computer Graphics course.
-There are 3 files - main_layout.c, 2_cars_app.h and stick_hero.h.
+There are 3 files - main_layout.c, 2_cars_game.h and stick_hero_game.h.
 The above .h files are the user defined header files called from the .c file. Since I used the Turbo C compiler while building this the program structure will be in old fashion.
 Copy paste the main_layout.c in turboC/bin directory and the other 2 .h files in turboC/header directory.
  
@@ -17,3 +17,6 @@ Right click on the Red color Rectangle which is the link for 2 Cars game app. In
 The cars will move ahead and you have to simultanously collect the circular points on your way for both the cars.
 To end the game press 'e'.
 Play and let me your high score.
+
+Similarly some fixes is required to run the other stick_hero_game.h by clicking the blue rectangle on the first app window.
+Definitely enjoyable
