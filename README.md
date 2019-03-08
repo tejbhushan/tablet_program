@@ -19,4 +19,5 @@ To end the game press 'e'.
 Play and let me your high score.
 
 Similarly some fixes is required to run the other stick_hero_game.h by clicking the blue rectangle on the first app window.
+Small fix in stick_hero_game.h. Still requires more fixes.
 Definitely enjoyable
